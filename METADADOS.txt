@@ -1,0 +1,8 @@
+### BEER ###
+
+dimensão: 737x1600 
+formato: retangular?
+resolução: 737x1600
+nome do arquivo: 
+como estão codificadas as classses: 
+dispositivo de captura, etc.
