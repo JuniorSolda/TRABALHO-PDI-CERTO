@@ -1,8 +1,0 @@
-### BEER ###
-
-dimensão: 737x1600 
-formato: PNG
-resolução: 737x1600
-nome do arquivo: 
-como estão codificadas as classses: 
-dispositivo de captura, etc.
